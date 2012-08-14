@@ -7,6 +7,10 @@ You can also add attachment in the email.there are also two ways:add a File obje
 in asynchronous send email: you can add File Object or byte array Object(you can use apache commons
 IOUtils.toByteArray to convert InputStream to byte array).
 
+you can download it use : git clone https://github.com/kaka2008/email
+
+if you have good suggestion,welcome to fork or comment.
+
  
 
 
