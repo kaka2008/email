@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="example"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="lib/activemq-core-5.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/activemq-spring-5.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/mail-1.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/spring-jms-3.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/xbean-spring-3.9.jar"/>
+	<classpathentry kind="lib" path="lib/javaee.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/org.springframework.context.support-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/org.springframework.core-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/org.springframework.web-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/org.springframework.beans-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/org.springframework.context-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/org.springframework.asm-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/org.springframework.transaction-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/org.springframework.expression-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.6.4.jar"/>
+	<classpathentry kind="lib" path="lib/junit.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
