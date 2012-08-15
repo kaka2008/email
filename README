@@ -1,4 +1,4 @@
-This project supply a simple way to send html email in java,which uses spring.
+This project supply a very simple way to send html email in java,which uses spring.
 
 There are two way to send email: synchronize and asynchronous. the second way need a JMS server,in this
 project,I use active MQ,you can download it at here:http://activemq.apache.org/download.html
@@ -9,9 +9,9 @@ IOUtils.toByteArray to convert InputStream to byte array).
 
 you can download it use : git clone https://github.com/kaka2008/email
 
-if you have good suggestion,welcome to fork or comment.
+if you have good suggestion,welcome fork or comment.
 
- 
+my email is : weizhankui2008@gmail.com
 
 
 
